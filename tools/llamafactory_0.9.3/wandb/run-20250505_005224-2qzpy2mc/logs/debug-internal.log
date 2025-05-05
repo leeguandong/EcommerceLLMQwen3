@@ -1,0 +1,15 @@
+{"time":"2025-05-05T00:52:24.280682632+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/gdli7/SparkLLM/tools/llamafactory_0.9.3/wandb/run-20250505_005224-2qzpy2mc/logs/debug-core.log"}
+{"time":"2025-05-05T00:52:27.394546718+08:00","level":"INFO","msg":"created new stream","id":"2qzpy2mc"}
+{"time":"2025-05-05T00:52:27.394585359+08:00","level":"INFO","msg":"stream: started","id":"2qzpy2mc"}
+{"time":"2025-05-05T00:52:27.394622036+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"2qzpy2mc"}
+{"time":"2025-05-05T00:52:27.394669899+08:00","level":"INFO","msg":"handler: started","stream_id":"2qzpy2mc"}
+{"time":"2025-05-05T00:52:27.394635306+08:00","level":"INFO","msg":"sender: started","stream_id":"2qzpy2mc"}
+{"time":"2025-05-05T00:52:28.128716444+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-05T04:03:44.983148892+08:00","level":"INFO","msg":"stream: closing","id":"2qzpy2mc"}
+{"time":"2025-05-05T04:03:44.983210048+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-05T04:03:44.98480135+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-05T04:03:46.349169904+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-05T04:03:46.908704527+08:00","level":"INFO","msg":"handler: closed","stream_id":"2qzpy2mc"}
+{"time":"2025-05-05T04:03:46.908751979+08:00","level":"INFO","msg":"sender: closed","stream_id":"2qzpy2mc"}
+{"time":"2025-05-05T04:03:46.908745997+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"2qzpy2mc"}
+{"time":"2025-05-05T04:03:46.90884581+08:00","level":"INFO","msg":"stream: closed","id":"2qzpy2mc"}

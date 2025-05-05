@@ -1,0 +1,81 @@
+{
+  "os": "Linux-5.15.0-117-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.15",
+  "startedAt": "2025-05-04T16:52:24.279251Z",
+  "args": [
+    "/home/gdli7/SparkLLM/tools/llamafactory_0.9.3/train_lora/qwen3_lora_sft.yaml"
+  ],
+  "program": "/home/gdli7/SparkLLM/llamafactory_0.9.3/src/llamafactory/launcher.py",
+  "email": "leeguandon@gmail.com",
+  "root": "/home/gdli7/SparkLLM/tools/llamafactory_0.9.3",
+  "host": "mdesk-A100-139005",
+  "executable": "/dev_share/gdli7/miniconda3/envs/py310_comfyui/bin/python",
+  "cpu_count": 60,
+  "cpu_count_logical": 120,
+  "gpu": "NVIDIA A100-SXM4-80GB",
+  "gpu_count": 8,
+  "disk": {
+    "/": {
+      "total": "528104091648",
+      "used": "98704719872"
+    }
+  },
+  "memory": {
+    "total": "2058809307136"
+  },
+  "cpu": {
+    "count": 60,
+    "countLogical": 120
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.2"
+}
