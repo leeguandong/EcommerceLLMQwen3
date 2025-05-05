@@ -68,7 +68,7 @@ pip install -e ".[torch,metrics]"
 
 |模型权重|下载链接|微调方法|
 |:-|:-|:-|
-|ecommercellm-qwen3-8b-instruct|comming soon....|LoRA|
+|ecommercellm-qwen3-8b|comming soon....|LoRA|
 
 
 #### CLI推理
