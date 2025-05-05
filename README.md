@@ -166,7 +166,7 @@ llamafactory-cli train "/home/gdli7/SparkLLM/tools/llamafactory_0.9.3/train_lora
 ## 项目致谢
 
 1. [LLAMA-Factory](https://github.com/hiyouga/LLaMA-Factory)为我们提供了训练框架；
-1. [Qwen2.5-7b-instruct](https://www.modelscope.cn/models/qwen/Qwen2.5-7B-Instruct/summary)在modelscope上下载；
+1. [Qwen3-8b](https://www.modelscope.cn/models/Qwen/Qwen3-8B))在modelscope上下载；
 
 ## 免责声明
 
